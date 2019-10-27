@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>images/configBundle.configCom.png</file>
+        <file>images/exinputBundle.asciiCom.png</file>
+        <file>images/exinputBundle.picfaceCom.png</file>
+        <file>images/exinputBundle.poemCom.png</file>
+        <file>images/HaHaBundle.png</file>
+        <file>images/handinputBundle.png</file>
+        <file>images/scdWEbBundle.png</file>
+        <file>images/screencaptureBundle.png</file>
+        <file>images/exinputBundle.emotionCom.png</file>
+        <file>images/icon_magnifying_glass.png</file>
+        <file>images/icon-info.png</file>
+        <file>images/inputstatisticsBundle.png</file>
+        <file>images/inputstatisticsBundle2.png</file>
+        <file>images/mousegestureBundle.png</file>
+        <file>images/undoBundle.png</file>
+        <file>images/addBundle.png</file>
+        <file>images/searchById.png</file>
+        <file>images/searchByName.png</file>
+        <file>images/studentbk2.jpg</file>
+    </qresource>
+</RCC>
